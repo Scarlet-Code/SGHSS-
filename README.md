@@ -97,8 +97,8 @@ app/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/Scarlet-Code/SGHSS---Sistema-de-Gest-o-Hospitalar-e-de-Servi-os-de-Sa-de.git
-cd 
+git clone https://github.com/Scarlet-Code/https://github.com/Scarlet-Code/SGHSS-.git
+cd SGHSS
 ```
 
 ### Crie e ative um ambiente virtual
@@ -157,7 +157,7 @@ Swagger UI: http://127.0.0.1:8000/docs
 
 ## Autor
 
-Desenvolvido por [Yara Godoy](https://github.com/Scarlet-Code/SGHSS---Sistema-de-Gest-o-Hospitalar-e-de-Servi-os-de-Sa-de). 
+Desenvolvido por [Yara Godoy](https://github.com/Scarlet-Code/SGHSS-.git). 
 O projeto foi desenvolvido para fins acadêmicos como parte de conclusção de curso, com foco em Back-End.
 
 ---
